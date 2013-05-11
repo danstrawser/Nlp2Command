@@ -1,0 +1,6 @@
+  (0) Go&&RobotMoving --> true: 0.197509
+  (0) Go&&RobotNotMoving --> false: 0.208606
+  (0) to&&EndPointDist_1 --> true: 0.189010
+  (0) to&&SPDistGreater --> true: 0.189010
+  (0) toEndPointDist_10 --> false: 0.176813
+  (0) toSPDistLessThan --> false: 0.176813
